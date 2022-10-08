@@ -1,2 +1,2 @@
-# Hack-The-Heist
+# Decode-The-Heist
 Hackathon Website of HackTheHeist
